@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LOVE AFFAIR～秘密のデート",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-25T05:15:11.228850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR~秘密のデート",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/01_LOVE_AFFAIR~秘密のデート_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/02_LOVE_AFFAIR~秘密のデート_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR〜秘密のデート〜",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_LOVE_AFFAIR〜秘密のデート〜_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート～ - LOVE AFFAIR~Himitsu no Date~",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/04_LOVE_AFFAIR~秘密のデート~_-_LOVE_AFFAIR~Himitsu_no_Date~_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR~秘密のデート~",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/05_LOVE_AFFAIR~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Affair～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_Love_Affair~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Affair ～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/07_Love_Affair_~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR~秘密のデート",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/08_LOVE_AFFAIR~秘密のデート_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート [茅ヶ崎]",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/09_LOVE_AFFAIR~秘密のデート_[茅ヶ崎]_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR ～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/10_LOVE_AFFAIR_~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート～ (2024 Remaster)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/11_LOVE_AFFAIR~秘密のデート~_(2024_Remaster)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR ～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/12_LOVE_AFFAIR_~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/13_LOVE_AFFAIR~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR ～秘密のデート～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/14_LOVE_AFFAIR_~秘密のデート~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOVE AFFAIR～秘密のデート (Remastered 2024)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/15_LOVE_AFFAIR~秘密のデート_(Remastered_2024)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE AFFAIR ～秘密のデート",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_AFFAIR_~秘密のデート_サザンオールスターズ.txt"
+    }
+  ]
+}
